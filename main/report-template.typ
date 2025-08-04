@@ -47,7 +47,7 @@
   )
 
   show raw: it => {
-    set text(font: lib.default_mono + lib.japanese_mono, size: font-size)
+    set text(font: lib.default_mono + lib.japanese_mono, size: font-size * 0.8)
     it
   }
 
