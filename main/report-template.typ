@@ -122,7 +122,7 @@
   show regex(lib.non-cjk-range): set text(
     // font: default_serif,
     // number-type: "lining",
-    size: font-size*1.2,
+    size: font-size*1.0,
     // weight: 400,
   )
   //

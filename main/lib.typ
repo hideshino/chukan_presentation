@@ -5,7 +5,7 @@
   "[^" + basic-cjk-range + punctuation + numbers + "]+"
 }
 
-#let non-cjk-style(body, el-font-size, size-multiplier: 1.2) = {
+#let non-cjk-style(body, el-font-size, size-multiplier: 1.0) = {
   show regex(non-cjk-range): set text(
     size: el-font-size * size-multiplier,
   )
