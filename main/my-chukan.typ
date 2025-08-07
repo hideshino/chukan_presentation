@@ -5,8 +5,8 @@
   subtitle: "ローカルLLMによる生成表現の改善",
   venue: "令和7年度 博士前期課程2年次中間発表",
   date: "2025年8月8日",
-  status: "博士前期課程2年次",
-  supervisors: ([Hodošček Bor 准教授], [今尾 康裕教授]),
+  status: "博士前期課程2年",
+  supervisors: ([Hodošček Bor 准教授],  [今尾 康裕 教授]),
   bibliography-file: "./bibliography.bib",
   bibliography-style: "apa",
   language: "ja",
@@ -49,27 +49,18 @@
 
       *3.2\.  動画のダウンロードとメタ情報取得および音声認識処理の準備*
 
-      *3\.  音声認識処理 ASR による文字起こし*
-
-      *6\.  LLMを用いた整形処理*
     ],
     [
       #set par(justify: false, first-line-indent: 0pt)
-      *7\.  形態素解析と依存関係解析による構文情報の付与*
+      *3.3\.  音声認識処理 ASR による文字起こし*
 
-      *8\.  XiaChuFang Corpusの参照*
+      *3.4\.  LLMを用いた整形処理*
+      
+      *4\.  形態素解析と依存関係解析による構文情報の付与*
 
-      *9\.  Chinese_Video_Corpus構築における課題*
+      *5\.  コーパスの設計*
 
-      X\.  結果
-
-      X\.  分析
-
-      X\.  考察
-
-      *10\.  今後の展望と意味のある応用*
-
-      *11\.  まとめ*
+      *6\.  まとめ*
     ]
   ))
 ]
